@@ -1,0 +1,53 @@
+[
+{
+  "msg": "DDR 1",
+  "result": [
+    {
+      "ddr": "DDR1",
+      "id_contrato": 1,
+      "last_update": "2022-06-01 15:00:00",
+      "limit": 15,
+      "limit_hit_date": "",
+      "percent_usage": 35,
+      "status": 1,
+      "xcall_user_id": "1",
+      "xcall_username": "João da Silva"
+    }
+  ],
+  "status": 1
+},
+{
+  "msg": "DDR 2",
+  "result": [
+    {
+      "ddr": "DDR2",
+      "id_contrato": 1,
+      "last_update": "2022-06-01 16:00:00",
+      "limit": 55,
+      "limit_hit_date": "2022-06-30 10:32:00",
+      "percent_usage": 100,
+      "status": 1,
+      "xcall_user_id": "3",
+      "xcall_username": "Jose da Silva"
+    }
+  ],
+  "status": 1
+},
+{
+  "msg": "DDR 3",
+  "result": [
+    {
+      "ddr": "DDR3",
+      "id_contrato": 1,
+      "last_update": "2022-06-15 14:00:00",
+      "limit": 25,
+      "limit_hit_date": "",
+      "percent_usage": 89,
+      "status": 1,
+      "xcall_user_id": "10",
+      "xcall_username": "Antônio da Silva"
+    }
+  ],
+  "status": 1
+}
+]
